@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application6</string>
+    <string name="daftar_mahasiswa">Daftar Mahasiswa</string>
+    <string name="crud_android_mysql">CRUD Android MySQL</string>
+    <string name="modul_5_pemrograman_mobile">Modul 6 Pemrograman Mobile</string>
+    <string name="dafar_mahasiswa">Dafar Mahasiswa</string>
+    <string name="_2019_muhammad_yusril_hasanuddin">© 2019 Muhammad Yusril Hasanuddin</string>
+    <string name="tambah_mahasiswa">Tambah Mahasiswa</string>
+    <string name="masukan_email">Masukkan Email</string>
+    <string name="masukan_nama">Masukkan Nama</string>
+    <string name="masukan_jurusan">Masukkan Jurusan</string>
+    <string name="update_data">Update Data</string>
+    <string name="id_mahasiswa">ID Mahasiswa</string>
+    <string name="nama_mahasiswa">Nama Mahasiswa</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="email">Email</string>
+    <string name="update_mahasiswa">Update Mahasiswa</string>
+    <string name="hapus_mahasiswa">Hapus Mahasiswa</string>
+</resources>
